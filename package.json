@@ -1,0 +1,19 @@
+{
+  "name": "give-to-you",
+  "version": "0.0.1",
+  "description": "This is the webpage for NGO(Non Government Organization). They can post on the campaign about giving some gift. Afterwards, some people can give the organization the gift. The purpose is the right place, a surplus thing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lundella/GiveToYou.git"
+  },
+  "author": "Moon Ju Young",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lundella/GiveToYou/issues"
+  },
+  "homepage": "https://github.com/lundella/GiveToYou#readme"
+}
