@@ -4,7 +4,7 @@
   "description": "This is the webpage for NGO(Non Government Organization). They can post on the campaign about giving some gift. Afterwards, some people can give the organization the gift. The purpose is the right place, a surplus thing.",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server --open --mode development",  
+    "start": "webpack-dev-server --open --mode development",
     "build": "webpack --mode production"
   },
   "repository": {
@@ -19,11 +19,13 @@
   "homepage": "https://github.com/lundella/GiveToYou#readme",
   "dependencies": {
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "react-router-dom": "^5.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.9.6",
     "@babel/preset-env": "^7.9.6",
+    "@babel/preset-es2015": "^7.0.0-beta.53",
     "@babel/preset-react": "^7.9.4",
     "babel-cli": "^6.26.0",
     "babel-loader": "^8.1.0",
